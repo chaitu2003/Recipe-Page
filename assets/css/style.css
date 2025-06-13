@@ -1,0 +1,57 @@
+body{
+    background: hsl(30, 54%, 90%);
+}
+
+h2 {
+    color: hsl(14, 45%, 36%);
+    font-family: "Young-Serif",serif;
+}
+
+P {
+    font-size: 16px;
+    font-family: "Outfit", sans-serif;
+}
+
+
+.con {
+    background: white;
+    border-radius: 10px;
+    width: 60%;
+    margin: auto;
+    align-items: center;
+}
+
+li {
+    padding-bottom: 10px;
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+div {
+    padding: 10px;
+}
+
+.prep {
+    margin: 10px;
+    background: hsl(330, 100%, 98%);
+    border-radius: 10px;
+}
+
+.prep h3 {
+    color: hsl(332, 51%, 32%);
+}
+
+th, td {
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
+
+th {
+    color: hsl(14, 45%, 36%);
+    font-weight: bolder;
+}
