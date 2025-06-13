@@ -21,6 +21,7 @@ P,td,th {
     font-family: "Outfit", sans-serif;
 }
 
+
 .con {
     background: white;
     border-radius: 10px;
@@ -71,6 +72,10 @@ div {
 th, td {
     padding-right: 100px;
     padding-bottom: 20px;
+    padding-top: 10px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+    padding-left: 20px;
 }
 
 th {
